@@ -8,3 +8,4 @@
 [33m[nodemon] watching extensions: js,mjs,cjs,json[39m
 [32m[nodemon] starting `node index.js`[39m
 Server is running on port 3012
+[32m[nodemon] clean exit - waiting for changes before restart[39m
