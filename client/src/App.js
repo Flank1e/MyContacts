@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Contacts</h1>
+      <h1>My Contacts</h1>
       <ul>
         {contacts.map(contact => (
           <li key={contact.id}>
